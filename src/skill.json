@@ -1,0 +1,79 @@
+[
+    {
+        "name" : "HTML",
+        "img" : "html-5.svg"
+        
+    },
+    {
+        "name" : "CSS",
+        "img" : "css.svg"
+    },
+    {
+        "name" : "Javascript",
+        "img" : "javascript.svg"
+    },
+    {
+        "name" : "PHP",
+        "img" : "php.svg"
+    },
+    {
+        "name" : "Laravel",
+        "img" : "laravel.svg"
+    },
+    {
+        "name" : "Node.js",
+        "img" : "nodejs.svg"
+    },
+    {
+        "name" : "Express",
+        "img" : "express.svg"
+    },
+    {
+        "name" : "React",
+        "img" : "react.svg"
+    },
+    {
+        "name" : "Next",
+        "img" : "nextjs-icon.svg"  
+    },
+    {
+        "name" : "Tailwind",
+        "img" : "tailwind-css-icon.svg"
+    },
+    {
+        "name" : "Bootstrap",
+        "img" : "bootstrap.svg"
+    },
+    {
+        "name" : "Material UI",
+        "img" : "material-ui.svg"
+    },
+    {
+        "name" : "Daisy UI",
+        "img" : "daisy.svg"
+    },
+    {
+        "name" : "MySql",
+        "img" : "mysql-icon.svg"
+    },
+    {
+        "name" : "PostgreSql",
+        "img" : "postgresql-icon.svg"
+    },
+    {
+        "name" : "Redis",
+        "img" : "redis-icon.svg"
+    },
+    {
+        "name" : "Redux",
+        "img" : "redux-icon.svg"
+    },
+    {
+        "name" : "Firebase",
+        "img" : "firebase.svg"
+    },
+    {
+        "name" : "Git",
+        "img" : "git.svg"
+    }
+]
