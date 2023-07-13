@@ -2,7 +2,7 @@
   "name": "vite-porto",
   "private": true,
   "version": "0.0.0",
-  "homepage":"https://github.com/Fiqri-R-J/fiqrirj.github.io",
+  "homepage": "https://github.com/Fiqri-R-J/fiqrirj.github.io",
   "type": "module",
   "scripts": {
     "dev": "vite",
